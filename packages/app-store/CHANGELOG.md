@@ -1,5 +1,11 @@
 # @nailyjs.nest.modules/app-store
 
+## 1.0.3
+
+### Patch Changes
+
+- feat: add LICENSE
+
 ## 1.0.2
 
 ### Patch Changes

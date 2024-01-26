@@ -3,7 +3,7 @@
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/types/index.d.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "build": "tsc -p tsconfig.build.json && rollup -c rollup.config.mjs",
     "prepublishOnly": "npm run build"
