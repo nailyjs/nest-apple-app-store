@@ -1,9 +1,10 @@
 {
   "name": "@nailyjs.nest.modules/app-store",
+  "description": "Nestjs Apple App Store Module",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/types/index.d.ts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
     "build": "tsc -p tsconfig.build.json && rollup -c rollup.config.mjs",
     "prepublishOnly": "npm run build"
@@ -37,7 +38,6 @@
     "app-store-server"
   ],
   "license": "Apache-2.0",
-  "description": "Nestjs TencentCloud Module",
   "engines": {
     "node": ">=12"
   },

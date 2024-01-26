@@ -1,5 +1,11 @@
 # @nailyjs.nest.modules/app-store
 
+## 1.0.5
+
+### Patch Changes
+
+- chore: package.json's description
+
 ## 1.0.4
 
 ### Patch Changes
