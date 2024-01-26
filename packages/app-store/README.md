@@ -1,7 +1,5 @@
 # Apple App Store Server SDK for Nest.js 🍎
 
-[中文](./README_CN.md) | English
-
 ## Introduction 📖
 
 This is a Nest.js SDK for Apple App Store Server API. It is based on [apple-app-store-api](https://github.com/apple/app-store-server-library-node).

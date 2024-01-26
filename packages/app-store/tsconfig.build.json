@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "lib/types",
+    "declaration": true,
+    "declarationDir": "lib/types",
+    "declarationMap": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "ES6",
+    "module": "commonjs",
+    "emitDeclarationOnly": true
+  },
+  "include": ["src"]
+}

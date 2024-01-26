@@ -1,0 +1,52 @@
+{
+  "name": "@nailyjs.nest.modules/app-store",
+  "main": "lib/cjs/index.js",
+  "module": "lib/esm/index.js",
+  "types": "lib/types/index.d.ts",
+  "version": "1.0.2",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json && rollup -c rollup.config.mjs",
+    "prepublishOnly": "npm run build"
+  },
+  "bugs": {
+    "email": "gczgroup@qq.com",
+    "url": "https://github.com/nailyjs/nest-apple-app-store/issues"
+  },
+  "homepage": "https://github.com/nailyjs/nest-apple-app-store",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nailyjs/nest-apple-app-store.git"
+  },
+  "author": {
+    "name": "Zero",
+    "email": "gczgroup@qq.com",
+    "url": "https://github.com/groupguanfang"
+  },
+  "files": [
+    "lib",
+    "screenshots"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest",
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "nestjs",
+    "app-store",
+    "app-store-server"
+  ],
+  "license": "Apache-2.0",
+  "description": "Nestjs TencentCloud Module",
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "@apple/app-store-server-library": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.6",
+    "@nestjs/common": "^10.3.1"
+  }
+}
