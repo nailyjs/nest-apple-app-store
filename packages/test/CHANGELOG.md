@@ -5,6 +5,13 @@
 ### Patch Changes
 
 - Updated dependencies
+  - @nailyjs.nest.modules/app-store@1.0.4
+
+## null
+
+### Patch Changes
+
+- Updated dependencies
   - @nailyjs.nest.modules/app-store@1.0.3
 
 ## null

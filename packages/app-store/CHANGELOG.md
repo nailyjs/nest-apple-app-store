@@ -1,5 +1,11 @@
 # @nailyjs.nest.modules/app-store
 
+## 1.0.4
+
+### Patch Changes
+
+- chore: remove screenshot
+
 ## 1.0.3
 
 ### Patch Changes

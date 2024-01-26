@@ -159,5 +159,5 @@ export class AppStoreService {
 
 If you find this project useful, you can buy author a glass of coffee 🥰
 
-![wechat](./screenshots/wechat.jpg)
-![alipay](./screenshots/alipay.jpg)
+![wechat](https://github.com/nailyjs/nest-tencentcloud/blob/v1/screenshots/wechat.jpg?raw=true)
+![alipay](https://github.com/nailyjs/nest-tencentcloud/blob/v1/screenshots/alipay.jpg?raw=true)
